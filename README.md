@@ -4,6 +4,7 @@
 https://app.powerbi.com/view?r=eyJrIjoiNWUyYTFjNWYtNTg3Yy00YmJhLTgwMjEtMzY0N2JmZmM5MWNmIiwidCI6IjUzMjlmZWMyLWI4NzItNGEwOS05OTc4LWFlZTFhOTBlMGJmOCJ9
 
 ##LINKEDIN:
+
 www.linkedin.com/in/manish-tomar-980805a5
 
 KEY INSIGHTS:
