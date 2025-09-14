@@ -1,4 +1,4 @@
-# FIND PROJECT ON :
+# FIND PROJECT ON:
 
 ## MICROSOFT POWER BI:
 
@@ -7,6 +7,10 @@ https://app.powerbi.com/view?r=eyJrIjoiNWUyYTFjNWYtNTg3Yy00YmJhLTgwMjEtMzY0N2JmZ
 ## LINKEDIN:
 
 https://www.linkedin.com/posts/manish-tomar-980805a5_my-first-latest-power-bi-project-on-activity-7371975443287064579-zVw4?utm_source=share&utm_medium=member_desktop&rcm=ACoAABZd1zABo0QR5ICx1qUHEaie30JBGz3fh1s
+
+## NOVY PRO:
+
+https://www.novypro.com/manage_projects/manish-tomar
 
 KEY INSIGHTS:
 🚀My First latest POWER BI 📊 project on Bank Customers analysis!
