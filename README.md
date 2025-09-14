@@ -1,3 +1,11 @@
+#FIND PROJECT ON 
+##MICROSOFT POWER BI:
+https://app.powerbi.com/view?r=eyJrIjoiNWUyYTFjNWYtNTg3Yy00YmJhLTgwMjEtMzY0N2JmZmM5MWNmIiwidCI6IjUzMjlmZWMyLWI4NzItNGEwOS05OTc4LWFlZTFhOTBlMGJmOCJ9
+
+##LINKEDIN:
+www.linkedin.com/in/manish-tomar-980805a5
+
+KEY INSIGHTS:
 🚀My First latest POWER BI 📊 project on Bank Customers analysis!
 Some Key Insights are : 
 🔹The average customer age is 34.99, but the distribution of balances is heavily skewed, with a significant portion of customers in the 20-40 age group holding the majority of the balance.
